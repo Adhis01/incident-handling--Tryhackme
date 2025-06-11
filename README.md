@@ -4,7 +4,7 @@ This is a written walkthrough of a TryHackMe room on incident handling, featurin
 
 ## 📄 File
 
-- [tryhackme-incident-handling-splunk.docx](./tryhackme-incident-handling-splunk.docx)
+
 
 ## Tools Used
 
